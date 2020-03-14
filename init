@@ -1,0 +1,8 @@
+https://www.insecam.org/en/view/421702/
+
+baseline:
+* build digit recognizer
+* crop stream, recognize digits, store with time intervals 
+  * (idea: store on change w/ date+time)
+* continue collecting data for several days (ideally 1+ weeks)
+* Visualization & EDA
