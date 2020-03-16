@@ -1,11 +1,11 @@
 # Elevator Tracking
 
 To track an elevator, 
-- we extract the seven segment display on its display board.
-- we convert it to a B&W binary image
-- we can take two approaches to recognize the digits
- * a machine learning approach
- * an algorithmic approach (this works because the digits wont be handwritten, so their positions are fixed)
+1. we extract the seven segment display on its display board.
+2. we convert it to a B&W binary image
+3. we can take two approaches to recognize the digits
+  * a machine learning approach
+  * an algorithmic approach (this works because the digits wont be handwritten, so their positions are fixed)
  
 I found [an online IPTV](https://www.insecam.org/en/view/421702/) showing the interior of an elevator in Noord-Holland, Amsterdam.
 
