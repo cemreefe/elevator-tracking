@@ -36,9 +36,6 @@ Here below you can see the digits these 10 strings correspond to. If a reading e
 </center>
 
 Now that we can read what digit is written in the seven segment display, log the first floor we read after connecting to the IPTV.
-Every time te digit changes, we add a new log in the format "&lt;local system time&gt; : &lt;digit&gt;".
+Every time the digit changes, we add a new log in the format "&lt;local system time&gt; : &lt;digit&gt;".
 
-## EDA
-
-<i>incoming</i>
 
