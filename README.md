@@ -17,18 +17,8 @@ The source video           |  Extracted image          |  B&W image and predicti
 
 After determining if each led is on or off, we convert this reading into a binary string of length seven. Which can be used as a key to our digit dictionary.
 
-key | value
-:--------:|:--:
- 1111110 | 0 
- 0110000 | 1 
- 1101101 | 2 
- 1111001 | 3 
- 0110011 | 4 
- 1011011 | 5 
- 1011111 | 6 
- 1110000 | 7 
- 1111111 | 8 
- 1111011 | 9 
+:---|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:
+value | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 
 Now that we can read what digit is written in the seven segment display, log the first floor we read after connecting to the IPTV.
 Every time te digit changes, we add a new log in the format "&lt;local system time&gt; : &lt;digit&gt;".
