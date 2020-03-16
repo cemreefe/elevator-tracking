@@ -14,6 +14,6 @@ I found [an online IPTV](https://www.insecam.org/en/view/421702/) showing the in
 
 
 
-The source video             |  A seven segment display  |  Our extracted image and prediction
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="http://145.53.212.190:8001/mjpg/video.mjpg" width="60%">  |  <img src="https://www.direnc.net/Data/EditorFiles/aciklama-gorselleri-2/7-segment-display-ekran-pinout.jpg" width="60%"> | |  <img src="https://github.com/cemreefe/elevator-tracking/tree/master/snapshots/snap_1584321703x1875768.jpg" width="100%">
+The source video           |  Extracted image          |  A seven segment display  |  B&W image and prediction
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/cemreefe/elevator-tracking/blob/master/media/elevator1.jpg" width="60%"> | <img src="https://github.com/cemreefe/elevator-tracking/blob/master/media/elevator2.jpg" width="60%">  |  <img src="https://github.com/cemreefe/elevator-tracking/blob/master/snapshots/snap_1584321703x1875768.jpg" width="60%"> | <img src="https://www.direnc.net/Data/EditorFiles/aciklama-gorselleri-2/7-segment-display-ekran-pinout.jpg" width="60%"> |
