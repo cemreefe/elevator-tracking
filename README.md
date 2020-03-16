@@ -17,6 +17,8 @@ The source video           |  Extracted image          |  B&W image and predicti
 
 After determining if each led is on or off, we convert this reading into a binary string of length seven. Which can be used as a key to our digit dictionary.
 
+
+key | 1111110 | 0110000 | 1101101 | 1111001 | 0110011 | 1011011 | 1011111 | 1110000 | 1111111 | 1111011
 :---|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:
 value | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 
