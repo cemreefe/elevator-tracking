@@ -4,8 +4,8 @@ To track an elevator,
 1. we extract the seven segment display on its display board.
 2. we convert it to a B&W binary image
 3. we can take two approaches to recognize the digits
-  * a machine learning approach
-  * an algorithmic approach (this works because the digits wont be handwritten, so their positions are fixed)
+    * a machine learning approach
+    * an algorithmic approach (this works because the digits wont be handwritten, so their positions are fixed)
  
 I found [an online IPTV](https://www.insecam.org/en/view/421702/) showing the interior of an elevator in Noord-Holland, Amsterdam. After extracting the 7 segment board form the image, I straightened it to easily detect the 7 display leds.
 
